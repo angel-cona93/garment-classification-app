@@ -1,0 +1,227 @@
+{
+  "pexels_001": {
+    "garment_type": "dress",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "yellow, white"
+  },
+  "pexels_002": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "silk",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "evening",
+    "color_palette": "red"
+  },
+  "pexels_003": {
+    "garment_type": "dress",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "white"
+  },
+  "pexels_004": {
+    "garment_type": "jacket",
+    "style": "streetwear",
+    "material": "denim",
+    "pattern": "solid",
+    "season": "transitional",
+    "occasion": "casual",
+    "color_palette": "blue"
+  },
+  "pexels_005": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "polyester",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "evening",
+    "color_palette": "black"
+  },
+  "pexels_006": {
+    "garment_type": "dress",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "pink, white"
+  },
+  "pexels_007": {
+    "garment_type": "coat",
+    "style": "formal",
+    "material": "wool",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "office",
+    "color_palette": "brown, beige"
+  },
+  "pexels_008": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "silk",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "evening",
+    "color_palette": "green"
+  },
+  "pexels_009": {
+    "garment_type": "top",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "striped",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "blue, white"
+  },
+  "pexels_010": {
+    "garment_type": "dress",
+    "style": "bohemian",
+    "material": "chiffon",
+    "pattern": "floral",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "multicolor"
+  },
+  "pexels_011": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "polyester",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "evening",
+    "color_palette": "black, gold"
+  },
+  "pexels_012": {
+    "garment_type": "jacket",
+    "style": "streetwear",
+    "material": "leather",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "casual",
+    "color_palette": "black"
+  },
+  "pexels_013": {
+    "garment_type": "dress",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "white"
+  },
+  "pexels_014": {
+    "garment_type": "shirt",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "plaid",
+    "season": "fall/winter",
+    "occasion": "casual",
+    "color_palette": "red, black"
+  },
+  "pexels_015": {
+    "garment_type": "dress",
+    "style": "bohemian",
+    "material": "linen",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "white, cream"
+  },
+  "pexels_016": {
+    "garment_type": "top",
+    "style": "casual",
+    "material": "polyester",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "orange"
+  },
+  "pexels_017": {
+    "garment_type": "dress",
+    "style": "vintage",
+    "material": "cotton",
+    "pattern": "floral",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "blue, white"
+  },
+  "pexels_018": {
+    "garment_type": "dress",
+    "style": "minimalist",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "beige, brown"
+  },
+  "pexels_019": {
+    "garment_type": "coat",
+    "style": "minimalist",
+    "material": "wool",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "office",
+    "color_palette": "gray"
+  },
+  "pexels_020": {
+    "garment_type": "jacket",
+    "style": "streetwear",
+    "material": "denim",
+    "pattern": "solid",
+    "season": "transitional",
+    "occasion": "casual",
+    "color_palette": "blue"
+  },
+  "pexels_021": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "silk",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "evening",
+    "color_palette": "red"
+  },
+  "pexels_022": {
+    "garment_type": "shirt",
+    "style": "casual",
+    "material": "cotton",
+    "pattern": "solid",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "white"
+  },
+  "pexels_023": {
+    "garment_type": "dress",
+    "style": "formal",
+    "material": "satin",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "evening",
+    "color_palette": "green, gold"
+  },
+  "pexels_024": {
+    "garment_type": "jacket",
+    "style": "streetwear",
+    "material": "leather",
+    "pattern": "solid",
+    "season": "fall/winter",
+    "occasion": "casual",
+    "color_palette": "black"
+  },
+  "pexels_025": {
+    "garment_type": "dress",
+    "style": "bohemian",
+    "material": "cotton",
+    "pattern": "floral",
+    "season": "spring/summer",
+    "occasion": "casual",
+    "color_palette": "white, green, pink"
+  }
+}
