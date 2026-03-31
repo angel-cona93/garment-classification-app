@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Database
+*.db
+
+# Uploads
+app/backend/uploads/*
+!app/backend/uploads/.gitkeep
+
+# Evaluation images (downloaded)
+eval/images/
+eval/report.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Docker
+.env
